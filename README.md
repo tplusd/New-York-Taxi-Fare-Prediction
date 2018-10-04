@@ -9,33 +9,33 @@ The reading sequence is:
 Summary of data analysis
 Part one: data preprocessing and visualization
 
-  Extracted and cleaned data
+■ Extracted and cleaned data
   
-  Introduced data structure and content
+■  Introduced data structure and content
   
-  Separated the occurrence time of each ride into detailed features.
+■  Separated the occurrence time of each ride into detailed features.
   
-  Investigated the distribution of ride fare amounts and its relationship 
+■  Investigated the distribution of ride fare amounts and its relationship 
   with different features.
   
  
 Part two: Further feature engineering:
 
-  Calculated the haversine distances between pickup and dropoff locations based on 
+■  Calculated the haversine distances between pickup and dropoff locations based on 
   their latitude and longitude values.
   
-  Detaily investigated the distribution of taxi ride fare with locations
+■  Detaily investigated the distribution of taxi ride fare with locations
   
 
 Part three: Baseline model:
 
-  Built a simple linear regression model as a baseline.
+■  Built a simple linear regression model as a baseline.
   
 
 Part four: LGBM:
 
-  Built and tuned a Light Gradient Boosting model to train and fit the data.
+■  Built and tuned a Light Gradient Boosting model to train and fit the data.
   
-  Acheived a significant improvement compared to the baseline model.
+■  Acheived a significant improvement compared to the baseline model.
   
   
