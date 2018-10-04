@@ -1,4 +1,4 @@
-# New-York-Taxi-Fare-Prediction
+# New York Taxi Fare Prediction
 
 The reading sequence is:
  1. data preprocessing and visualization
